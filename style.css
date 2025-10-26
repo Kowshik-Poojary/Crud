@@ -3,7 +3,7 @@ body{
     background-color:#e9d8a6;
     color:rgb(255, 166, 0);
     font-size:30px;
-    background-image: url("https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148370436.jpg?t=st=1735222825~exp=1735226425~hmac=188d08be3ae7ad18bd99174f2d93d4cec61ba4a5208d7c1a238eef04d34ede25&w=996");
+    background-color: rgb(47, 65, 79);
     background-size: cover; /* Make the image cover the entire background */
     background-attachment: fixed; /* Prevent image from shifting */
 }
@@ -54,8 +54,8 @@ h1{
     display: none;
     position: fixed;
     top: 50%;
-    margin-left:400px;
-    background-color: rgba(0, 174, 255, 0.9);
+    margin-left:550px;
+    background-color: rgba(5, 31, 43, 0.9);
     color: rgb(255, 230, 0);
     padding: 50px;
     border-radius: 15px;
